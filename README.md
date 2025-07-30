@@ -11,4 +11,4 @@ O aplicație desktop simplă, scrisă în **Python + PyQt5**, pentru a rula coma
 - **Auto-clear** input după pornire tracert
 - Scroll automat în output
 
-![]()
+![](https://github.com/AdrianCTurcu/Tracert_tool_2025/blob/main/Tracert_tool.jpg)
